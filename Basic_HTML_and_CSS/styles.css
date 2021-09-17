@@ -1,0 +1,12 @@
+div{
+    color:white;
+    background:#000;
+    font-size:16px;
+    text-align: center;
+}
+h1{
+    font-size:46px;
+    text-align: center;
+    color:gray;
+    text-shadow: 3px 3px 3px #fff;
+}
