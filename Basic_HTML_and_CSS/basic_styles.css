@@ -87,7 +87,7 @@ h1 {
 @keyframes race {
     0%, 100% {
         transform: translateY(0px);
-        background-image: url("/Basic_HTML_and_CSS/images/icons/smileyface1.png")
+        background-image: url("../Basic_HTML_and_CSS/images/icons/smileyface1.png")
     }
     50% {
         transform : translateY(330px);
